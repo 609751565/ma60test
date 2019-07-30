@@ -11,7 +11,7 @@ To run the code, you should first connect MATLAB to Wind finance terminal(WTF), 
 
 After the connection, you can run the code: ma60test(inputcode,startdate,enddate,a,b)
 
-inputcode: enter the code of the selected security. exp:'T1806'
-startdate/enddate: enter the back-test date. exp:'2018-01-01 09:30:01'
-a: a=1 for outputting a excel file recording the trade history.
-b: b=1 for printing a plot showing the long/short point.
+inputcode: enter the code of the selected security. exp:'T1806'    
+startdate/enddate: enter the back-test date. exp:'2018-01-01 09:30:01' 
+a: a=1 for outputting a excel file recording the trade history.   
+b: b=1 for printing a plot showing the long/short point.   
